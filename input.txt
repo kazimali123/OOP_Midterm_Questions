@@ -1,0 +1,4 @@
+﻿abc ali 30 50 60 
+def kazim 50 50 70
+ghi talha 20 20 26
+
